@@ -1,47 +1,38 @@
-# 🐾 PetCare Blog – Cuidando a tu mascota con tecnología
+# 🐶 PetCare Blog
 
-Este es un proyecto de práctica para aplicar la metodología **Agile y SCRUM**, utilizando **GitHub Projects** para la gestión del trabajo en equipo.
-
-El objetivo es desarrollar un **blog informativo** con contenido sobre bienestar animal, consejos, fotos y artículos para dueños de mascotas.
+Este repositorio es para un proyecto donde estamos creando un blog sobre el cuidado de las mascotas. La idea es compartir información, fotos y consejos para quienes tienen animales en casa.
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## 🛠️ Herramientas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Git y GitHub
 
 ---
 
-## 📌 Gestión del Proyecto
+## 📌 Organización del trabajo
 
-Se está utilizando un tablero SCRUM con GitHub Projects para:
-- Organizar el Product Backlog
-- Visualizar tareas del Sprint
-- Asignar responsables y etiquetas
-- Mostrar el avance en tiempo real
-
-📊 Vista del tablero en el Sprint actual:
-
-> Ubicación: Projects → `SCRUM - PetCare Sprint 1`
+Usamos un tablero en GitHub Projects para organizar las tareas del equipo. Ahí podemos ver qué está pendiente, qué estamos haciendo y qué ya se completó durante el Sprint.
 
 ---
 
-## 📂 Estructura del repositorio
+## 📁 Carpetas del proyecto
 
-/images → recursos gráficos
-/articles → artículos del blog
-/docs → documentación del proyecto
+/images → imágenes del blog
+/articles → artículos de prueba
+/docs → notas del proyecto
+
+yaml
+Copiar código
 
 ---
 
 ## 👥 Equipo
 
-- Product Owner
-- Scrum Master
-- Equipo de Desarrollo
+Cada integrante del equipo tiene un rol y participa en el desarrollo siguiendo prácticas de trabajo colaborativo.
 
 ---
 
-✅ Trabajo realizado como parte del **Laboratorio de Simulación SCRUM**.
+Este proyecto forma parte de una actividad de práctica para aprender a trabajar con Scrum.
