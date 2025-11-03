@@ -24,9 +24,6 @@ Usamos un tablero en GitHub Projects para organizar las tareas del equipo. Ahí 
 /articles → artículos de prueba
 /docs → notas del proyecto
 
-yaml
-Copiar código
-
 ---
 
 ## 👥 Equipo
